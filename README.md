@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dipawali Mandaokar
 - 👀 I’m interested in coding , creating interesting projects, learning new technologies 
-- 🌱 I’m currently learning native app deveopment 
-- 💞️ I’m looking to collaborate on Ai ,Ml and android projects 
+- 🌱 building full-stack websites for users 
+- 💞️ I’m looking to collaborate on Ai ,Ml and web developement projects 
 - 📫 connect with me @dipawalimandaokar@gmail.com
 - 
      LinkedIn link - https://www.linkedin.com/in/dipawali-mandaokar-99950020b/
