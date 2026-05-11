@@ -54,17 +54,10 @@ Associate Software Engineer @ **NCS** · 1.8+ years of experience
 ---
 ## 📬 Connect with Me
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
 ](https://www.linkedin.com/in/dipawali-mandaokar-99950020b/)
-[
 
-![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)
-
-](mailto:dipawalimandaokar321@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:dipawalimandaokar321@gmail.com)
 <!---
 DIPAWALIMANDAOKA/DIPAWALIMANDAOKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
