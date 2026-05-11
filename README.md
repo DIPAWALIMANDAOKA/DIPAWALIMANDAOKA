@@ -37,6 +37,7 @@ Associate Software Engineer @ **NCS** · 1.8+ years of experience
 - Integrated Spring Data JPA with MySQL
 
 ### TruelyFit — Gym Management Platform
+(https://github.com/DIPAWALIMANDAOKA/truelyfit-)
 > Spring Boot · JWT Security · MySQL · REST APIs
 
 - 35+ REST endpoints across 6 modules with role-based access control  
@@ -51,7 +52,6 @@ Associate Software Engineer @ **NCS** · 1.8+ years of experience
 2021 – 2024 | **CGPA: 9.40**
 
 ---
-
 ## 📬 Connect with Me
 
 [
@@ -60,8 +60,11 @@ Associate Software Engineer @ **NCS** · 1.8+ years of experience
 
 ](https://www.linkedin.com/in/dipawali-mandaokar-99950020b/)
 [
+
 ![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)
-](mailto:dipawalimandaokar321@gmail.com) 
+
+](mailto:dipawalimandaokar321@gmail.com)
+
 <!---
 DIPAWALIMANDAOKA/DIPAWALIMANDAOKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
